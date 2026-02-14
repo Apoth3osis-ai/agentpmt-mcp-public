@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "agentpmt": {
+      "url": "https://api.agentpmt.com/mcp",
+      "headers": {
+        "Authorization": "Bearer {{AGENTPMT_BEARER_TOKEN}}"
+      }
+    }
+  }
+}
