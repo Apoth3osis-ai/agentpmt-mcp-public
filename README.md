@@ -68,9 +68,11 @@ Or add manually to `.vscode/mcp.json`:
 }
 ```
 
-#### Cursor
+#### <a id="cursor"></a>Cursor
 
-Add to your Cursor MCP settings:
+**One-click install:** [Install AgentPMT in Cursor](cursor://anysphere.cursor-deeplink/mcp/install?name=agentpmt&config=eyJ1cmwiOiAiaHR0cHM6Ly9hcGkuYWdlbnRwbXQuY29tL21jcCIsICJoZWFkZXJzIjogeyJBdXRob3JpemF0aW9uIjogIkJlYXJlciBZT1VSX0FQSV9LRVkifX0%3D)
+
+Or add manually to your Cursor MCP settings:
 
 ```json
 {
@@ -86,11 +88,13 @@ Add to your Cursor MCP settings:
 }
 ```
 
+After installing, replace `YOUR_API_KEY` with your base64-encoded credentials (see [Encoding Credentials](#encoding-credentials) below).
+
 #### Cline
 
 Add to your Cline MCP settings with the same configuration format as above.
 
-### Encoding Credentials
+### <a id="encoding-credentials"></a>Encoding Credentials
 
 Encode your API key and budget key as a base64 bearer token:
 
