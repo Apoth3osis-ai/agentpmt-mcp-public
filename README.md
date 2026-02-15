@@ -178,6 +178,7 @@ Tools on the AgentPMT marketplace have individual pricing set by vendors. Your b
 
 ## Support
 
+- **Email:** [admin@agentpmt.com](mailto:admin@agentpmt.com)
 - **Website:** [agentpmt.com](https://agentpmt.com)
 - **Issues:** [GitHub Issues](https://github.com/Apoth3osis-ai/agentpmt-mcp-public/issues)
 
